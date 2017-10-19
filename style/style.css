@@ -1,0 +1,13 @@
+body{
+  background-color: #f4f4f4;
+}
+
+td,th{
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+td:first-of-type {
+  width:200px;
+  height:150px;
+}
